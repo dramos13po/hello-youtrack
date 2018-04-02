@@ -3,4 +3,4 @@ test repo for youtrack
 first edition
 
 test integration
-vcs name added
+vcs name added v2
